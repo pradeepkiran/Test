@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DataMigration", "DataMigration\", "{E938FD23-DE6B-4A57-A837-97DE3C7AA349}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{A314E4D0-BAC4-4F21-BE28-68267992E902}|Syngenta.MaizeExpert.DataAccessHelper.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/DataMigration"
+		Debug.AspNetCompiler.PhysicalPath = "DataMigration\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DataMigration\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DataMigration"
+		Release.AspNetCompiler.PhysicalPath = "DataMigration\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DataMigration\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "42072"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syngenta.MaizeExpert.DataAccessHelper", "Syngenta.MaizeExpert.DataAccessHelper\Syngenta.MaizeExpert.DataAccessHelper.csproj", "{A314E4D0-BAC4-4F21-BE28-68267992E902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E938FD23-DE6B-4A57-A837-97DE3C7AA349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E938FD23-DE6B-4A57-A837-97DE3C7AA349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E938FD23-DE6B-4A57-A837-97DE3C7AA349}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E938FD23-DE6B-4A57-A837-97DE3C7AA349}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A314E4D0-BAC4-4F21-BE28-68267992E902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A314E4D0-BAC4-4F21-BE28-68267992E902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A314E4D0-BAC4-4F21-BE28-68267992E902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A314E4D0-BAC4-4F21-BE28-68267992E902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

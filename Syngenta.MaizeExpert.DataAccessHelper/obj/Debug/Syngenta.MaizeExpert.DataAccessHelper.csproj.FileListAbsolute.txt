@@ -1,0 +1,15 @@
+C:\Users\rahul_bansal03\Desktop\MaizExpert\DemoApplications\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\bin\Debug\Syngenta.MaizeExpert.DataAccessHelper.dll
+C:\Users\rahul_bansal03\Desktop\MaizExpert\DemoApplications\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\bin\Debug\Syngenta.MaizeExpert.DataAccessHelper.pdb
+C:\Users\rahul_bansal03\Desktop\MaizExpert\DemoApplications\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rahul_bansal03\Desktop\MaizExpert\DemoApplications\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\Syngenta.MaizeExpert.DataAccessHelper.dll
+C:\Users\rahul_bansal03\Desktop\MaizExpert\DemoApplications\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\Syngenta.MaizeExpert.DataAccessHelper.pdb
+C:\ToAshish\ME_CR_Issues_09_01_2012\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\bin\Debug\Syngenta.MaizeExpert.DataAccessHelper.dll
+C:\ToAshish\ME_CR_Issues_09_01_2012\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\bin\Debug\Syngenta.MaizeExpert.DataAccessHelper.pdb
+C:\ToAshish\ME_CR_Issues_09_01_2012\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\ToAshish\ME_CR_Issues_09_01_2012\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\Syngenta.MaizeExpert.DataAccessHelper.dll
+C:\ToAshish\ME_CR_Issues_09_01_2012\DataMigrationApplication\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\Syngenta.MaizeExpert.DataAccessHelper.pdb
+C:\ToAshish\DataMigrationApplication_new\Syngenta.MaizeExpert.DataAccessHelper\bin\Debug\Syngenta.MaizeExpert.DataAccessHelper.dll
+C:\ToAshish\DataMigrationApplication_new\Syngenta.MaizeExpert.DataAccessHelper\bin\Debug\Syngenta.MaizeExpert.DataAccessHelper.pdb
+C:\ToAshish\DataMigrationApplication_new\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\ToAshish\DataMigrationApplication_new\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\Syngenta.MaizeExpert.DataAccessHelper.dll
+C:\ToAshish\DataMigrationApplication_new\Syngenta.MaizeExpert.DataAccessHelper\obj\Debug\Syngenta.MaizeExpert.DataAccessHelper.pdb
